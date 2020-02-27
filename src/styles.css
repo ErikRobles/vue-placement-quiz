@@ -1,0 +1,133 @@
+ul {
+  margin: 0 auto;
+  text-align: center;
+  width:100%; 
+}
+
+li {
+  display: inline;
+  vertical-align: top;
+}
+
+/*Classes*/
+.question-b {
+padding: 20px;
+width: 400px!important;
+margin: 20px;
+white-space: normal;
+}
+
+.row {
+padding:30px;
+}
+.progress {
+padding:30px;
+margin:30px;
+}
+
+.container {
+  box-shadow: 2px 2px 4px black;
+  background-color: #e5e5e5;
+}
+
+.shadow
+{
+  position:relative;
+  -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+     -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+          box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+.shadow:before, .shadow:after
+{
+  content:"";
+  position:absolute;
+  z-index:-1;
+  -webkit-box-shadow:0 0 20px rgba(0,0,0,0.8);
+  -moz-box-shadow:0 0 20px rgba(0,0,0,0.8);
+  box-shadow:0 0 20px rgba(0,0,0,0.8);
+  top:0;
+  bottom:0;
+  left:10px;
+  right:10px;
+  -moz-border-radius:100px / 10px;
+  border-radius:100px / 10px;
+}
+.shadow:after
+{
+  right:10px;
+  left:auto;
+  -webkit-transform:skew(8deg) rotate(3deg);
+     -moz-transform:skew(8deg) rotate(3deg);
+      -ms-transform:skew(8deg) rotate(3deg);
+       -o-transform:skew(8deg) rotate(3deg);
+          transform:skew(8deg) rotate(3deg);
+}
+.fade-enter-active, .fade-leave-active {
+transition: opacity 0.25s ease-out;
+}
+
+.fade-enter, .fade-leave-to {
+opacity: 0;
+}
+
+.space-top {
+  margin-top: 30px;
+}
+
+label.btn {
+  padding: 20px;
+  width: 400px!important;
+  margin: 20px;
+  white-space: normal;
+}
+
+.btn-red {
+  background-color: #eb5858;
+  color: #fff;
+}
+
+.bg-red {
+  background-color: #eb5858;
+}
+
+.logo {
+  width: 200px;
+  padding-top: 20px;
+}
+
+/*By ID*/
+#heading-top {
+font-size: 22pt;
+font-weight: bold;
+padding: 6px;
+}
+
+#question-text {
+font-size: 16pt;
+font-weight: bold;
+padding: 6px;
+}
+
+
+/*Media Queries*/
+
+@media only screen and (max-width: 574px) {
+  .question-b {
+    width:240px;
+  }
+  label.btn {
+    width: 180px!important;
+    margin: 5px;
+  }
+  .logo {
+    width: 150px;
+  }
+  .container {
+    width: 270px;
+  }
+}
+@media only screen and (min-width: 1272px) {
+  .question-b {
+    width:500px;
+  }
+}

@@ -1,0 +1,423 @@
+{
+  "user": "English Learner",
+  "questions": [
+    {
+      "id": 0,
+      "text": "What _______ your job?",
+      "responses": [
+        {
+          "text": "are"
+        },
+        {
+          "text": "is",
+          "correct": true
+        },
+        {
+          "text": "be"
+        },
+        {
+          "text": "have"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "text": "Lynn _______ at home at the moment.",
+      "responses": [
+        {
+          "text": "works"
+        },
+        {
+          "text": "is working",
+          "correct": true
+        },
+        {
+          "text": "work"
+        },
+        {
+          "text": "are working"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "We have ______ information about that.",
+      "responses": [
+        {
+          "text": "a lot of",
+          "correct": true
+        },
+        {
+          "text": "an"
+        },
+        {
+          "text": "any"
+        },
+        {
+          "text": "many"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Would you ______ a coffee?",
+      "responses": [
+        {
+          "text": "liked"
+        },
+        {
+          "text": "liking"
+        },
+        {
+          "text": "like",
+          "correct": true
+        },
+        {
+          "text": "to like"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "TV advertisements are ________ than newspapers.",
+      "responses": [
+        {
+          "text": "the effective"
+        },
+        {
+          "text": "effective"
+        },
+        {
+          "text": "most effective"
+        },
+        {
+          "text": "more effective",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "______ they start production in 1989?",
+      "responses": [
+        {
+          "text": "Did",
+          "correct": true
+        },
+        {
+          "text": "Do"
+        },
+        {
+          "text": "Have"
+        },
+        {
+          "text": "Are"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Our ______ for this project is just over a million dollars.",
+      "responses": [
+        {
+          "text": "business"
+        },
+        {
+          "text": "budget",
+          "correct": true
+        },
+        {
+          "text": "launch"
+        },
+        {
+          "text": "payback"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Our country has a very ______ economy at the moment. It’s good news for business.",
+      "responses": [
+        {
+          "text": "strong",
+          "correct": true
+        },
+        {
+          "text": "positive"
+        },
+        {
+          "text": "easy"
+        },
+        {
+          "text": "weak"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "_______ you free next week?",
+      "responses": [
+        {
+          "text": "Do"
+        },
+        {
+          "text": "Have"
+        },
+        {
+          "text": "Are",
+          "correct": true
+        },
+        {
+          "text": "When"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "I want to speak to the ______ of this conference.",
+      "responses": [
+        {
+          "text": "organizer",
+          "correct": true
+        },
+        {
+          "text": "organize"
+        },
+        {
+          "text": "organization"
+        },
+        {
+          "text": "organizing"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Prices remained ______ at the same level as last year.",
+      "responses": [
+        {
+          "text": "steadily"
+        },
+        {
+          "text": "slowly"
+        },
+        {
+          "text": "steady",
+          "correct": true
+        },
+        {
+          "text": "same"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "He wants to ______ a complaint to the manager.",
+      "responses": [
+        {
+          "text": "make",
+          "correct": true
+        },
+        {
+          "text": "do"
+        },
+        {
+          "text": "have"
+        },
+        {
+          "text": "deal with"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "If you ask them, they ______ you.",
+      "responses": [
+        {
+          "text": "are helping"
+        },
+        {
+          "text": "'ve help"
+        },
+        {
+          "text": "'ll help",
+          "correct": true
+        },
+        {
+          "text": "'d help"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "We need to finish. We’re ______ out of time.",
+      "responses": [
+        {
+          "text": "running",
+          "correct": true
+        },
+        {
+          "text": "going"
+        },
+        {
+          "text": "finishing"
+        },
+        {
+          "text": "keeping"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Let’s look ______ this chart.",
+      "responses": [
+        {
+          "text": "in"
+        },
+        {
+          "text": "at",
+          "correct": true
+        },
+        {
+          "text": "to"
+        },
+        {
+          "text": "like"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "He’s leaving the company ______ they wouldn’t promote him.",
+      "responses": [
+        {
+          "text": "because",
+          "correct": true
+        },
+        {
+          "text": "so that"
+        },
+        {
+          "text": "in order to"
+        },
+        {
+          "text": "that means that"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "I’m in charge _____ dealing with other companies.",
+      "responses": [
+        {
+          "text": "for"
+        },
+        {
+          "text": "to"
+        },
+        {
+          "text": "of",
+          "correct": true
+        },
+        {
+          "text": "with"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "One way to _____ employees is to offer them a bonus.",
+      "responses": [
+        {
+          "text": "meet"
+        },
+        {
+          "text": "upset"
+        },
+        {
+          "text": "fear"
+        },
+        {
+          "text": "motivate",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "The company was set ______ ten years ago.",
+      "responses": [
+        {
+          "text": "on"
+        },
+        {
+          "text": "up",
+          "correct": true
+        },
+        {
+          "text": "in"
+        },
+        {
+          "text": "off"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "We need to take legal ______ against them for copying our products.",
+      "responses": [
+        {
+          "text": "compensate"
+        },
+        {
+          "text": "advise"
+        },
+        {
+          "text": "action",
+          "correct": true
+        },
+        {
+          "text": "package"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Since 2003, bosses _____ slow to handle this problem.",
+      "responses": [
+        {
+          "text": "have been",
+          "correct": true
+        },
+        {
+          "text": "were"
+        },
+        {
+          "text": "are being"
+        },
+        {
+          "text": "are"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Global warming will ______ to a change in the way we use energy.",
+      "responses": [
+        {
+          "text": "caused"
+        },
+        {
+          "text": "result"
+        },
+        {
+          "text": "due"
+        },
+        {
+          "text": "lead",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}
